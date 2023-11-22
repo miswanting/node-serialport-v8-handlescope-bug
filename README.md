@@ -1,0 +1,1 @@
+# node-serialport-v8-handlescope-bug
